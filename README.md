@@ -18,10 +18,10 @@ Built with **React**, **Vite**, and **Tailwind CSS** to deliver fast performance
 - ✅ **Daily Planner**  
   Shows what to study today and tomorrow with a progress checklist.
 
-- 📅 **Calendar View** *(Optional)*  
+- 📅 **Calendar View** 
   Visualize your study sessions and exam schedule.
 
-- ⏱️ **Pomodoro Timer** *(Optional)*  
+- ⏱️ **Pomodoro Timer** 
   Boost productivity with focused study sessions.
 
 ---
