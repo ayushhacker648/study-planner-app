@@ -4,8 +4,6 @@ A responsive and intelligent study planning application that helps students stay
 
 Built with **React**, **Vite**, and **Tailwind CSS** to deliver fast performance and a clean user experience.
 
-![Dashboard Preview](https://via.placeholder.com/1000x300?text=Study+Planner+Dashboard)
-
 ---
 
 ## ✨ Features
